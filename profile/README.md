@@ -1,6 +1,6 @@
 # Fresh Spar
 
-Welcome to Fresh Spar's GitHub organization! We're dedicated to [briefly describe your organization's mission or purpose].
+Welcome to Fresh Spar Technologies GitHub organization! We're dedicated to Markting, Web and App Development and Video Editing.
 
 ## Table of Contents
 
