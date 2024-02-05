@@ -2,14 +2,7 @@
 
 Welcome to Fresh Spar Technologies GitHub organization! We're dedicated to Markting, Web and App Development and Video Editing.
 
-## Table of Contents
 
-- [About Us](#about-us)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Contact](#contact)
 
 ## About Us
 
