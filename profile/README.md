@@ -1,6 +1,6 @@
-# Fresh Spar
+# Fresh Spar Technologies
 
-Welcome to Fresh Spar Technologies GitHub organization! We're dedicated to Markting, Web and App Development and Video Editing.
+Welcome to Fresh Spar Technologies GitHub organization! We're dedicated to Marketing, Web and App Development and Video Editing.
 
 
 
